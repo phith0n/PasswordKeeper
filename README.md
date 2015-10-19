@@ -13,3 +13,7 @@ PasswordKeeper
 ![example 1](https://raw.githubusercontent.com/phith0n/PasswordKeeper/master/example_1.png)
 
 ![example 2](https://raw.githubusercontent.com/phith0n/PasswordKeeper/master/example_2.png)
+
+![example 3](https://raw.githubusercontent.com/phith0n/PasswordKeeper/master/example_3.png)
+
+![example 4](https://raw.githubusercontent.com/phith0n/PasswordKeeper/master/example_4.png)
